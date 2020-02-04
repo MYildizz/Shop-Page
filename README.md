@@ -1,3 +1,8 @@
+#FrontEnd Shop Page 
+![Default Admin Panel Error !](https://github.com/MYildizz/Shop-Page/blob/master/photo/1.PNG) <br/> 
+![Default Admin Panel Error !](https://github.com/MYildizz/Shop-Page/blob/master/photo/2.PNG) <br/> 
+![Default Admin Panel Error !](https://github.com/MYildizz/Shop-Page/blob/master/photo/3.PNG) <br/> 
+
 # Shop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
