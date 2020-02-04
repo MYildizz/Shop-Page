@@ -3,11 +3,11 @@
 ![Default Admin Panel Error !](https://github.com/MYildizz/Shop-Page/blob/master/photo/2.PNG) <br/> 
 ![Default Admin Panel Error !](https://github.com/MYildizz/Shop-Page/blob/master/photo/3.PNG) <br/> 
 
-+ You must install json-server
-->  'npm install -g json-server'
-->  'json-server --watch db.json'
-# then
-'ng g --open'
++ You must install json-server <br/>
+->  `npm install -g json-server` <br/>
+->  `json-server --watch db.json` <br/>
+##### then
+`ng g --open`
 
 
 # Shop
